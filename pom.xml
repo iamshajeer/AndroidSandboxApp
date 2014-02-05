@@ -16,6 +16,10 @@
             <id>vmn-android-releases</id>
             <url>http://nexus.mtvi.com/nexus/content/repositories/releases/</url>
         </repository>
+        <repository>
+            <id>vmn-android-snapshots</id>
+            <url>http://nexus.mtvi.com/nexus/content/repositories/snapshots/</url>
+        </repository>
     </repositories>
     <distributionManagement>
         <repository>
