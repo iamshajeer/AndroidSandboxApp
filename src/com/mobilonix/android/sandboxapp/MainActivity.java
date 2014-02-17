@@ -21,4 +21,8 @@ public class MainActivity extends Activity {
 		return true;
 	}
 
+	void getData() {
+		
+	}
+	
 }
